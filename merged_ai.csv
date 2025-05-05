@@ -1,0 +1,395 @@
+Job_Title,Industry,Company_Size,Location,AI_Adoption_Level,Automation_Risk,Required_Skills,Salary_USD,Remote_Friendly,Job_Growth_Projection,AI Impact,Tasks,AI models,AI_Workload_Ratio,Domain
+marketing specialist,Technology,Large,Singapore,Medium,High,Marketing,93792.56246610906,No,Decline,20%,281,2181,0.128839981659789,Leadership & Strategy
+sales manager,Retail,Small,Berlin,Low,High,Project Management,93027.95375786416,No,Growth,23%,293,1997,0.1467200801201802,Hospitality
+ux designer,Education,Large,San Francisco,Medium,Medium,Cybersecurity,102825.0078665678,No,Growth,50%,129,993,0.1299093655589124,Communication & PR
+hr manager,Finance,Medium,Singapore,Low,High,Sales,102065.72067347592,Yes,Growth,20%,299,1960,0.1525510204081632,Leadership & Strategy
+sales manager,Entertainment,Medium,Singapore,High,Low,Cybersecurity,96834.57829480869,Yes,Decline,23%,293,1997,0.1467200801201802,Hospitality
+marketing specialist,Finance,Small,London,High,High,Python,91566.97337925188,Yes,Growth,20%,281,2181,0.128839981659789,Leadership & Strategy
+hr manager,Retail,Small,Paris,Low,High,Cybersecurity,98209.51687788912,Yes,Decline,20%,299,1960,0.1525510204081632,Leadership & Strategy
+product manager,Finance,Medium,Singapore,High,High,JavaScript,101001.90114055388,Yes,Growth,60%,195,1732,0.1125866050808314,Supply Chain & Logistics
+sales manager,Telecommunications,Small,Dubai,High,Low,UX/UI Design,82799.35770690278,No,Growth,23%,293,1997,0.1467200801201802,Hospitality
+software engineer,Manufacturing,Medium,Singapore,High,Medium,Machine Learning,78401.25928174148,No,Decline,60%,133,1342,0.0991058122205663,Communication & PR
+product manager,Finance,Large,San Francisco,Medium,High,UX/UI Design,97645.09878289838,Yes,Stable,60%,195,1732,0.1125866050808314,Supply Chain & Logistics
+software engineer,Entertainment,Small,Dubai,Low,Low,UX/UI Design,73920.45852718527,Yes,Growth,60%,133,1342,0.0991058122205663,Communication & PR
+sales manager,Retail,Medium,Sydney,Medium,Low,JavaScript,134822.69138041462,Yes,Decline,23%,293,1997,0.1467200801201802,Hospitality
+data scientist,Manufacturing,Small,Dubai,Medium,High,JavaScript,81794.37128058006,Yes,Growth,70%,180,1091,0.1649862511457378,Data & IT
+ux designer,Retail,Small,Tokyo,High,Medium,Cybersecurity,41495.71444254798,No,Decline,50%,129,993,0.1299093655589124,Communication & PR
+product manager,Manufacturing,Medium,Paris,Medium,Medium,Data Analysis,89396.5666674173,Yes,Decline,60%,195,1732,0.1125866050808314,Supply Chain & Logistics
+operations manager,Transportation,Medium,San Francisco,Low,Low,UX/UI Design,88539.33040362394,Yes,Stable,25%,232,1461,0.1587953456536618,Communication & PR
+data scientist,Entertainment,Medium,Sydney,Low,Low,Sales,112234.37135048377,Yes,Stable,70%,180,1091,0.1649862511457378,Data & IT
+ux designer,Transportation,Large,Tokyo,Medium,High,UX/UI Design,95762.52473455408,No,Decline,50%,129,993,0.1299093655589124,Communication & PR
+hr manager,Manufacturing,Small,Tokyo,High,Low,Cybersecurity,73323.29633120395,Yes,Growth,20%,299,1960,0.1525510204081632,Leadership & Strategy
+marketing specialist,Telecommunications,Large,San Francisco,Low,Medium,Python,96548.39543301976,Yes,Growth,20%,281,2181,0.128839981659789,Leadership & Strategy
+operations manager,Transportation,Medium,Dubai,High,Medium,Project Management,46705.714993791786,Yes,Stable,25%,232,1461,0.1587953456536618,Communication & PR
+hr manager,Telecommunications,Large,London,Medium,High,Data Analysis,116772.434687809,Yes,Stable,20%,299,1960,0.1525510204081632,Leadership & Strategy
+sales manager,Manufacturing,Large,Paris,Medium,Low,Machine Learning,73376.6022839067,No,Growth,23%,293,1997,0.1467200801201802,Hospitality
+hr manager,Finance,Large,London,Low,Medium,Machine Learning,118340.87641895234,Yes,Stable,20%,299,1960,0.1525510204081632,Leadership & Strategy
+sales manager,Healthcare,Large,Dubai,Low,Medium,JavaScript,102591.88272787948,Yes,Growth,23%,293,1997,0.1467200801201802,Hospitality
+operations manager,Entertainment,Small,San Francisco,Medium,High,Machine Learning,112988.46872002544,Yes,Stable,25%,232,1461,0.1587953456536618,Communication & PR
+software engineer,Telecommunications,Small,New York,High,High,Python,103457.72432634902,Yes,Stable,60%,133,1342,0.0991058122205663,Communication & PR
+marketing specialist,Technology,Medium,Sydney,Medium,Medium,Machine Learning,86711.67119077238,Yes,Growth,20%,281,2181,0.128839981659789,Leadership & Strategy
+operations manager,Education,Small,Dubai,Medium,Low,UX/UI Design,97443.3736294419,Yes,Decline,25%,232,1461,0.1587953456536618,Communication & PR
+software engineer,Transportation,Small,London,Low,Low,UX/UI Design,78250.04370056515,Yes,Growth,60%,133,1342,0.0991058122205663,Communication & PR
+ux designer,Energy,Medium,Dubai,Low,Low,JavaScript,83131.77800824065,Yes,Decline,50%,129,993,0.1299093655589124,Communication & PR
+operations manager,Telecommunications,Small,New York,Medium,Medium,Project Management,129293.90095937817,No,Stable,25%,232,1461,0.1587953456536618,Communication & PR
+ux designer,Entertainment,Large,Singapore,Low,Medium,Python,73836.12829899156,No,Decline,50%,129,993,0.1299093655589124,Communication & PR
+sales manager,Healthcare,Large,Singapore,Medium,Medium,Data Analysis,93086.3425327256,No,Growth,23%,293,1997,0.1467200801201802,Hospitality
+software engineer,Telecommunications,Small,Tokyo,High,Medium,Cybersecurity,92269.38073430952,No,Growth,60%,133,1342,0.0991058122205663,Communication & PR
+marketing specialist,Healthcare,Medium,Paris,Low,Medium,Python,83784.91056438402,Yes,Stable,20%,281,2181,0.128839981659789,Leadership & Strategy
+hr manager,Education,Medium,Toronto,High,Medium,Cybersecurity,71483.61633704841,Yes,Stable,20%,299,1960,0.1525510204081632,Leadership & Strategy
+data scientist,Finance,Large,Tokyo,Medium,Low,Sales,92027.13423093104,No,Growth,70%,180,1091,0.1649862511457378,Data & IT
+marketing specialist,Energy,Medium,Paris,Low,Medium,UX/UI Design,68352.65322455287,No,Decline,20%,281,2181,0.128839981659789,Leadership & Strategy
+software engineer,Technology,Large,Singapore,Medium,Low,Project Management,105770.97236634602,Yes,Decline,60%,133,1342,0.0991058122205663,Communication & PR
+marketing specialist,Retail,Large,Toronto,Medium,High,JavaScript,91646.59773434176,Yes,Decline,20%,281,2181,0.128839981659789,Leadership & Strategy
+software engineer,Technology,Small,Paris,Low,High,Sales,103180.62697744806,No,Stable,60%,133,1342,0.0991058122205663,Communication & PR
+product manager,Transportation,Large,Paris,High,High,Cybersecurity,84489.79419063198,No,Stable,60%,195,1732,0.1125866050808314,Supply Chain & Logistics
+product manager,Entertainment,Large,Tokyo,Medium,High,Machine Learning,108280.43918436408,Yes,Growth,60%,195,1732,0.1125866050808314,Supply Chain & Logistics
+ux designer,Retail,Large,Toronto,Low,Medium,Project Management,71031.10254487729,Yes,Stable,50%,129,993,0.1299093655589124,Communication & PR
+marketing specialist,Retail,Large,San Francisco,High,High,Sales,118237.53037789057,No,Stable,20%,281,2181,0.128839981659789,Leadership & Strategy
+product manager,Education,Medium,Berlin,Low,Low,JavaScript,78981.77634890293,Yes,Growth,60%,195,1732,0.1125866050808314,Supply Chain & Logistics
+software engineer,Finance,Small,San Francisco,High,Medium,UX/UI Design,56076.41864608825,No,Growth,60%,133,1342,0.0991058122205663,Communication & PR
+ux designer,Education,Large,Toronto,Medium,High,Project Management,83429.30183074536,Yes,Growth,50%,129,993,0.1299093655589124,Communication & PR
+software engineer,Transportation,Medium,San Francisco,Low,Low,JavaScript,81160.63605491581,Yes,Stable,60%,133,1342,0.0991058122205663,Communication & PR
+ux designer,Telecommunications,Small,New York,High,Medium,Marketing,83278.52027699928,No,Stable,50%,129,993,0.1299093655589124,Communication & PR
+marketing specialist,Telecommunications,Small,Singapore,Low,Medium,Marketing,94632.96030967963,Yes,Growth,20%,281,2181,0.128839981659789,Leadership & Strategy
+operations manager,Finance,Large,San Francisco,Low,Low,Project Management,76167.64860362199,No,Stable,25%,232,1461,0.1587953456536618,Communication & PR
+sales manager,Telecommunications,Medium,London,High,Low,Data Analysis,80636.34417381912,Yes,Decline,23%,293,1997,0.1467200801201802,Hospitality
+software engineer,Retail,Medium,Sydney,High,Medium,Cybersecurity,52243.50321499295,Yes,Stable,60%,133,1342,0.0991058122205663,Communication & PR
+sales manager,Energy,Medium,London,High,High,Data Analysis,75497.33812967277,Yes,Stable,23%,293,1997,0.1467200801201802,Hospitality
+ux designer,Transportation,Small,Paris,Low,Medium,UX/UI Design,73532.81590843154,Yes,Growth,50%,129,993,0.1299093655589124,Communication & PR
+operations manager,Technology,Large,Singapore,Medium,Medium,Python,102574.31721600612,No,Stable,25%,232,1461,0.1587953456536618,Communication & PR
+operations manager,Finance,Small,San Francisco,Low,Medium,Cybersecurity,65470.358203830205,No,Growth,25%,232,1461,0.1587953456536618,Communication & PR
+data scientist,Entertainment,Small,Tokyo,Low,Low,Marketing,125421.91798621108,Yes,Decline,70%,180,1091,0.1649862511457378,Data & IT
+operations manager,Technology,Small,Sydney,Low,Low,Sales,126752.1346612942,No,Decline,25%,232,1461,0.1587953456536618,Communication & PR
+operations manager,Energy,Medium,Berlin,Low,High,Sales,129825.05203287044,Yes,Growth,25%,232,1461,0.1587953456536618,Communication & PR
+data scientist,Education,Small,San Francisco,High,Low,Data Analysis,105370.34228299111,No,Stable,70%,180,1091,0.1649862511457378,Data & IT
+hr manager,Telecommunications,Small,Sydney,Medium,Low,Communication,58952.450768298775,No,Stable,20%,299,1960,0.1525510204081632,Leadership & Strategy
+data scientist,Manufacturing,Small,New York,High,Medium,Cybersecurity,105779.26710468795,No,Decline,70%,180,1091,0.1649862511457378,Data & IT
+hr manager,Manufacturing,Large,Sydney,Medium,Medium,Communication,82049.4035808908,No,Decline,20%,299,1960,0.1525510204081632,Leadership & Strategy
+hr manager,Manufacturing,Large,New York,Low,Medium,Python,95957.8983295738,Yes,Stable,20%,299,1960,0.1525510204081632,Leadership & Strategy
+data scientist,Retail,Large,Sydney,High,Medium,UX/UI Design,101325.6175943474,Yes,Decline,70%,180,1091,0.1649862511457378,Data & IT
+sales manager,Finance,Large,Paris,Low,Medium,Python,93002.69268012435,No,Decline,23%,293,1997,0.1467200801201802,Hospitality
+ux designer,Finance,Medium,Dubai,Low,High,Project Management,102714.59072314618,No,Stable,50%,129,993,0.1299093655589124,Communication & PR
+ux designer,Entertainment,Small,San Francisco,High,High,Project Management,89145.92410553433,No,Decline,50%,129,993,0.1299093655589124,Communication & PR
+operations manager,Healthcare,Small,Berlin,Medium,Low,JavaScript,106981.70900901742,No,Growth,25%,232,1461,0.1587953456536618,Communication & PR
+operations manager,Technology,Small,Berlin,Medium,Medium,Python,132528.71177946418,Yes,Growth,25%,232,1461,0.1587953456536618,Communication & PR
+software engineer,Manufacturing,Large,New York,Medium,Medium,Python,106800.19653491216,No,Growth,60%,133,1342,0.0991058122205663,Communication & PR
+data scientist,Education,Medium,Sydney,High,Low,Python,129631.5832963038,No,Growth,70%,180,1091,0.1649862511457378,Data & IT
+sales manager,Entertainment,Large,Paris,Low,Low,Communication,118957.22872153488,Yes,Decline,23%,293,1997,0.1467200801201802,Hospitality
+hr manager,Telecommunications,Medium,San Francisco,High,High,Marketing,67257.17238927555,No,Stable,20%,299,1960,0.1525510204081632,Leadership & Strategy
+product manager,Education,Medium,Berlin,Low,Low,Machine Learning,90427.64422209412,Yes,Decline,60%,195,1732,0.1125866050808314,Supply Chain & Logistics
+hr manager,Energy,Small,New York,High,Medium,Python,97554.55324643273,Yes,Stable,20%,299,1960,0.1525510204081632,Leadership & Strategy
+data scientist,Manufacturing,Medium,London,Medium,High,Communication,112457.27907467616,No,Decline,70%,180,1091,0.1649862511457378,Data & IT
+hr manager,Energy,Medium,Singapore,Low,Low,Sales,100350.87551624542,Yes,Decline,20%,299,1960,0.1525510204081632,Leadership & Strategy
+sales manager,Telecommunications,Medium,Toronto,High,High,UX/UI Design,86971.73539779433,Yes,Growth,23%,293,1997,0.1467200801201802,Hospitality
+hr manager,Retail,Large,Toronto,Low,Low,UX/UI Design,98329.2288951228,Yes,Stable,20%,299,1960,0.1525510204081632,Leadership & Strategy
+data scientist,Telecommunications,Large,Berlin,Low,Medium,Cybersecurity,96020.88952548904,Yes,Growth,70%,180,1091,0.1649862511457378,Data & IT
+sales manager,Energy,Small,San Francisco,Medium,High,Machine Learning,124900.32859975575,No,Growth,23%,293,1997,0.1467200801201802,Hospitality
+ux designer,Telecommunications,Small,Berlin,Low,Low,Python,93313.17887137063,No,Decline,50%,129,993,0.1299093655589124,Communication & PR
+operations manager,Entertainment,Large,New York,Medium,High,Cybersecurity,93969.70638677065,Yes,Growth,25%,232,1461,0.1587953456536618,Communication & PR
+ux designer,Retail,Medium,Dubai,Medium,High,Machine Learning,58580.13288650656,Yes,Growth,50%,129,993,0.1299093655589124,Communication & PR
+ux designer,Education,Medium,Tokyo,High,Low,Project Management,89686.95876755661,No,Growth,50%,129,993,0.1299093655589124,Communication & PR
+hr manager,Technology,Large,Tokyo,Medium,Medium,Marketing,87985.23509187989,No,Decline,20%,299,1960,0.1525510204081632,Leadership & Strategy
+data scientist,Technology,Medium,Sydney,Medium,Low,UX/UI Design,110711.66575245943,No,Decline,70%,180,1091,0.1649862511457378,Data & IT
+marketing specialist,Manufacturing,Small,London,High,Low,Marketing,74286.40806776009,No,Decline,20%,281,2181,0.128839981659789,Leadership & Strategy
+marketing specialist,Retail,Large,Singapore,Medium,Medium,Project Management,99112.37239049075,Yes,Decline,20%,281,2181,0.128839981659789,Leadership & Strategy
+sales manager,Finance,Large,Tokyo,Medium,High,Python,87042.86000312539,No,Decline,23%,293,1997,0.1467200801201802,Hospitality
+marketing specialist,Finance,Small,Paris,Medium,Medium,Cybersecurity,63848.51232217997,No,Growth,20%,281,2181,0.128839981659789,Leadership & Strategy
+hr manager,Entertainment,Small,San Francisco,Low,Medium,Machine Learning,135778.94979426413,No,Decline,20%,299,1960,0.1525510204081632,Leadership & Strategy
+product manager,Healthcare,Large,London,High,High,Python,58864.73308242552,Yes,Stable,60%,195,1732,0.1125866050808314,Supply Chain & Logistics
+software engineer,Telecommunications,Large,New York,Medium,High,Communication,88847.84072568991,No,Stable,60%,133,1342,0.0991058122205663,Communication & PR
+ux designer,Energy,Large,Singapore,High,Low,Marketing,112464.7864964764,No,Growth,50%,129,993,0.1299093655589124,Communication & PR
+operations manager,Healthcare,Large,Dubai,Medium,Medium,Communication,96032.38495907192,No,Stable,25%,232,1461,0.1587953456536618,Communication & PR
+sales manager,Manufacturing,Large,San Francisco,Medium,Low,Machine Learning,103759.33904232067,Yes,Growth,23%,293,1997,0.1467200801201802,Hospitality
+product manager,Transportation,Small,Dubai,Medium,Low,Cybersecurity,42486.67977814768,Yes,Decline,60%,195,1732,0.1125866050808314,Supply Chain & Logistics
+marketing specialist,Energy,Medium,Singapore,Low,Low,UX/UI Design,101964.987492599,No,Decline,20%,281,2181,0.128839981659789,Leadership & Strategy
+ux designer,Technology,Small,New York,Low,Medium,Marketing,74766.23587532803,Yes,Growth,50%,129,993,0.1299093655589124,Communication & PR
+operations manager,Technology,Small,Dubai,High,High,Python,89411.30538181018,No,Growth,25%,232,1461,0.1587953456536618,Communication & PR
+data scientist,Technology,Large,Berlin,Low,High,Data Analysis,100933.9064753175,No,Decline,70%,180,1091,0.1649862511457378,Data & IT
+data scientist,Manufacturing,Small,Toronto,High,Low,Data Analysis,87747.52341474428,Yes,Stable,70%,180,1091,0.1649862511457378,Data & IT
+operations manager,Telecommunications,Large,London,Medium,Medium,Data Analysis,59806.144814928906,No,Growth,25%,232,1461,0.1587953456536618,Communication & PR
+operations manager,Entertainment,Medium,Tokyo,Medium,Medium,JavaScript,92422.93803699792,Yes,Growth,25%,232,1461,0.1587953456536618,Communication & PR
+marketing specialist,Education,Large,Dubai,Medium,Medium,Python,106464.57756693644,No,Decline,20%,281,2181,0.128839981659789,Leadership & Strategy
+operations manager,Technology,Medium,Paris,Low,Low,JavaScript,88388.96216361554,No,Stable,25%,232,1461,0.1587953456536618,Communication & PR
+hr manager,Technology,Medium,London,High,Medium,Data Analysis,79886.87280125119,Yes,Stable,20%,299,1960,0.1525510204081632,Leadership & Strategy
+product manager,Entertainment,Small,Singapore,High,High,Project Management,100702.8287091064,No,Decline,60%,195,1732,0.1125866050808314,Supply Chain & Logistics
+operations manager,Technology,Small,New York,Low,High,JavaScript,117224.20230642238,No,Growth,25%,232,1461,0.1587953456536618,Communication & PR
+sales manager,Manufacturing,Medium,Berlin,High,Low,Python,70100.00213579283,Yes,Stable,23%,293,1997,0.1467200801201802,Hospitality
+data scientist,Transportation,Large,Berlin,High,High,Python,100519.55116835234,No,Decline,70%,180,1091,0.1649862511457378,Data & IT
+hr manager,Education,Large,Singapore,Medium,Medium,Communication,87565.92091164265,Yes,Stable,20%,299,1960,0.1525510204081632,Leadership & Strategy
+ux designer,Technology,Medium,Sydney,Low,High,Project Management,88155.31590733438,No,Stable,50%,129,993,0.1299093655589124,Communication & PR
+product manager,Manufacturing,Medium,Sydney,Low,Medium,Marketing,98153.12507249897,No,Stable,60%,195,1732,0.1125866050808314,Supply Chain & Logistics
+operations manager,Finance,Small,Tokyo,Low,Low,UX/UI Design,68850.5761560838,Yes,Growth,25%,232,1461,0.1587953456536618,Communication & PR
+marketing specialist,Manufacturing,Large,Tokyo,Medium,Low,Communication,75003.77185667082,Yes,Decline,20%,281,2181,0.128839981659789,Leadership & Strategy
+data scientist,Transportation,Small,San Francisco,Medium,Low,Data Analysis,119717.36551035367,Yes,Growth,70%,180,1091,0.1649862511457378,Data & IT
+data scientist,Manufacturing,Large,Dubai,Medium,Low,Project Management,85588.5506503832,No,Growth,70%,180,1091,0.1649862511457378,Data & IT
+ux designer,Manufacturing,Small,Dubai,High,Low,Communication,96120.28796035792,No,Decline,50%,129,993,0.1299093655589124,Communication & PR
+marketing specialist,Manufacturing,Large,New York,Low,Medium,Data Analysis,111093.32624086372,Yes,Growth,20%,281,2181,0.128839981659789,Leadership & Strategy
+software engineer,Telecommunications,Medium,Tokyo,Medium,Medium,Sales,100930.45261944078,Yes,Stable,60%,133,1342,0.0991058122205663,Communication & PR
+hr manager,Finance,Medium,San Francisco,Medium,Medium,UX/UI Design,107891.55358487512,No,Decline,20%,299,1960,0.1525510204081632,Leadership & Strategy
+data scientist,Technology,Small,San Francisco,Low,Medium,UX/UI Design,47666.72478206,Yes,Growth,70%,180,1091,0.1649862511457378,Data & IT
+sales manager,Manufacturing,Large,Sydney,Medium,High,Marketing,80200.99689678931,Yes,Decline,23%,293,1997,0.1467200801201802,Hospitality
+data scientist,Entertainment,Small,Singapore,Low,High,Project Management,99372.11592999184,No,Growth,70%,180,1091,0.1649862511457378,Data & IT
+data scientist,Finance,Medium,Sydney,Medium,High,Sales,91321.91119311546,Yes,Decline,70%,180,1091,0.1649862511457378,Data & IT
+data scientist,Retail,Large,Singapore,Low,Low,Machine Learning,73105.67076487809,No,Stable,70%,180,1091,0.1649862511457378,Data & IT
+software engineer,Technology,Medium,Dubai,Medium,Low,Data Analysis,73638.27900778996,Yes,Growth,60%,133,1342,0.0991058122205663,Communication & PR
+software engineer,Technology,Large,Sydney,Low,Medium,Sales,107677.22406906149,No,Growth,60%,133,1342,0.0991058122205663,Communication & PR
+product manager,Energy,Large,London,Low,Low,Project Management,85644.52835216226,Yes,Stable,60%,195,1732,0.1125866050808314,Supply Chain & Logistics
+sales manager,Energy,Small,Singapore,High,Medium,Data Analysis,102300.60387544638,Yes,Decline,23%,293,1997,0.1467200801201802,Hospitality
+data scientist,Transportation,Small,New York,Low,Low,Python,31969.52634612842,Yes,Growth,70%,180,1091,0.1649862511457378,Data & IT
+data scientist,Telecommunications,Medium,Singapore,Low,High,UX/UI Design,130007.35023016162,No,Stable,70%,180,1091,0.1649862511457378,Data & IT
+hr manager,Telecommunications,Medium,Sydney,Low,Low,Project Management,75378.52329897878,No,Stable,20%,299,1960,0.1525510204081632,Leadership & Strategy
+software engineer,Healthcare,Small,Sydney,High,Low,Python,94838.72738947145,No,Decline,60%,133,1342,0.0991058122205663,Communication & PR
+sales manager,Education,Medium,Berlin,High,Medium,Marketing,55906.05973007458,No,Decline,23%,293,1997,0.1467200801201802,Hospitality
+ux designer,Education,Small,New York,Medium,Medium,Communication,81549.17779189924,Yes,Decline,50%,129,993,0.1299093655589124,Communication & PR
+product manager,Finance,Large,Paris,High,Medium,Machine Learning,114893.76092730192,Yes,Stable,60%,195,1732,0.1125866050808314,Supply Chain & Logistics
+marketing specialist,Technology,Medium,San Francisco,Medium,High,Python,112524.00174378282,No,Decline,20%,281,2181,0.128839981659789,Leadership & Strategy
+data scientist,Entertainment,Medium,New York,High,Medium,Cybersecurity,103150.4882697022,No,Decline,70%,180,1091,0.1649862511457378,Data & IT
+product manager,Technology,Large,New York,Medium,Medium,UX/UI Design,98828.42998981853,Yes,Stable,60%,195,1732,0.1125866050808314,Supply Chain & Logistics
+sales manager,Manufacturing,Large,New York,High,High,Machine Learning,82709.01706929953,Yes,Growth,23%,293,1997,0.1467200801201802,Hospitality
+marketing specialist,Manufacturing,Small,Berlin,Medium,Medium,Sales,60768.876454983685,No,Decline,20%,281,2181,0.128839981659789,Leadership & Strategy
+software engineer,Healthcare,Medium,Paris,Low,Low,Data Analysis,99835.9266317616,No,Growth,60%,133,1342,0.0991058122205663,Communication & PR
+product manager,Finance,Large,Sydney,Medium,Low,JavaScript,124041.10308031851,No,Stable,60%,195,1732,0.1125866050808314,Supply Chain & Logistics
+product manager,Transportation,Small,Toronto,High,Medium,Project Management,53511.18226647075,No,Growth,60%,195,1732,0.1125866050808314,Supply Chain & Logistics
+data scientist,Education,Medium,San Francisco,Low,Low,Marketing,74767.0818772393,Yes,Stable,70%,180,1091,0.1649862511457378,Data & IT
+operations manager,Healthcare,Small,Sydney,Medium,Low,UX/UI Design,86364.49448234134,Yes,Growth,25%,232,1461,0.1587953456536618,Communication & PR
+product manager,Education,Medium,Toronto,Medium,High,Machine Learning,93466.82847427108,No,Growth,60%,195,1732,0.1125866050808314,Supply Chain & Logistics
+hr manager,Healthcare,Small,Paris,Medium,Medium,Sales,107583.52602868852,Yes,Decline,20%,299,1960,0.1525510204081632,Leadership & Strategy
+marketing specialist,Healthcare,Small,Paris,Low,Medium,Communication,86956.00039284666,Yes,Growth,20%,281,2181,0.128839981659789,Leadership & Strategy
+marketing specialist,Healthcare,Large,San Francisco,High,High,Data Analysis,83680.825471087,No,Decline,20%,281,2181,0.128839981659789,Leadership & Strategy
+hr manager,Finance,Small,San Francisco,Medium,Low,Project Management,112062.6141213948,No,Decline,20%,299,1960,0.1525510204081632,Leadership & Strategy
+ux designer,Healthcare,Medium,Paris,Medium,Low,Project Management,103239.91134126612,No,Decline,50%,129,993,0.1299093655589124,Communication & PR
+hr manager,Retail,Medium,Toronto,Medium,Medium,UX/UI Design,100779.55951402197,No,Decline,20%,299,1960,0.1525510204081632,Leadership & Strategy
+hr manager,Entertainment,Large,New York,Medium,Low,Marketing,92250.31423176228,No,Growth,20%,299,1960,0.1525510204081632,Leadership & Strategy
+marketing specialist,Education,Medium,Dubai,Medium,High,Cybersecurity,109663.04421839718,No,Stable,20%,281,2181,0.128839981659789,Leadership & Strategy
+marketing specialist,Energy,Medium,Sydney,High,Medium,UX/UI Design,74146.11435627844,Yes,Stable,20%,281,2181,0.128839981659789,Leadership & Strategy
+operations manager,Transportation,Small,Singapore,Medium,High,Sales,104922.01973738648,No,Growth,25%,232,1461,0.1587953456536618,Communication & PR
+data scientist,Telecommunications,Small,Sydney,Low,High,JavaScript,57499.28061506184,Yes,Decline,70%,180,1091,0.1649862511457378,Data & IT
+software engineer,Manufacturing,Small,Singapore,High,High,Marketing,61884.90538694088,No,Decline,60%,133,1342,0.0991058122205663,Communication & PR
+data scientist,Telecommunications,Medium,Dubai,High,Low,Cybersecurity,87820.47815409301,Yes,Decline,70%,180,1091,0.1649862511457378,Data & IT
+operations manager,Energy,Medium,Dubai,Medium,Medium,Machine Learning,110679.26512998046,No,Stable,25%,232,1461,0.1587953456536618,Communication & PR
+operations manager,Technology,Small,San Francisco,High,Medium,Marketing,76940.84017484378,Yes,Stable,25%,232,1461,0.1587953456536618,Communication & PR
+software engineer,Telecommunications,Medium,Berlin,Medium,Medium,JavaScript,114267.62799809988,No,Stable,60%,133,1342,0.0991058122205663,Communication & PR
+ux designer,Retail,Medium,Berlin,Medium,Low,Cybersecurity,116207.69404339942,No,Growth,50%,129,993,0.1299093655589124,Communication & PR
+hr manager,Energy,Medium,Berlin,Medium,Medium,Python,77910.16782439903,Yes,Decline,20%,299,1960,0.1525510204081632,Leadership & Strategy
+ux designer,Healthcare,Small,Paris,Medium,Medium,JavaScript,97369.6720667399,No,Decline,50%,129,993,0.1299093655589124,Communication & PR
+operations manager,Education,Small,Sydney,Low,Low,Project Management,86409.79074516977,No,Growth,25%,232,1461,0.1587953456536618,Communication & PR
+marketing specialist,Manufacturing,Medium,Paris,Low,High,Communication,109060.48294290472,Yes,Decline,20%,281,2181,0.128839981659789,Leadership & Strategy
+data scientist,Healthcare,Medium,London,Medium,High,Data Analysis,45848.72549419468,Yes,Growth,70%,180,1091,0.1649862511457378,Data & IT
+software engineer,Finance,Large,Singapore,Low,Medium,Project Management,138448.1107757988,Yes,Growth,60%,133,1342,0.0991058122205663,Communication & PR
+data scientist,Entertainment,Small,Paris,High,Low,Python,107155.49213990325,No,Decline,70%,180,1091,0.1649862511457378,Data & IT
+sales manager,Transportation,Medium,San Francisco,Medium,Low,Python,86529.36341929967,Yes,Stable,23%,293,1997,0.1467200801201802,Hospitality
+sales manager,Transportation,Medium,Sydney,Low,High,Sales,78953.56652845311,No,Growth,23%,293,1997,0.1467200801201802,Hospitality
+operations manager,Energy,Large,Singapore,Medium,Low,Cybersecurity,102912.30948339474,Yes,Growth,25%,232,1461,0.1587953456536618,Communication & PR
+operations manager,Retail,Small,London,Medium,Low,Data Analysis,109899.63337584709,No,Stable,25%,232,1461,0.1587953456536618,Communication & PR
+hr manager,Energy,Large,Paris,Low,Low,JavaScript,86749.477437402,Yes,Decline,20%,299,1960,0.1525510204081632,Leadership & Strategy
+hr manager,Retail,Medium,London,High,Low,Cybersecurity,112139.80825957004,No,Decline,20%,299,1960,0.1525510204081632,Leadership & Strategy
+hr manager,Energy,Large,Toronto,High,Low,Sales,71854.79906477756,No,Decline,20%,299,1960,0.1525510204081632,Leadership & Strategy
+marketing specialist,Entertainment,Medium,Berlin,Low,Low,Python,68323.78300026328,Yes,Stable,20%,281,2181,0.128839981659789,Leadership & Strategy
+product manager,Finance,Small,Toronto,Low,Low,Python,101822.17227077084,No,Decline,60%,195,1732,0.1125866050808314,Supply Chain & Logistics
+data scientist,Telecommunications,Large,Toronto,Low,Medium,Machine Learning,72921.20583224614,Yes,Growth,70%,180,1091,0.1649862511457378,Data & IT
+marketing specialist,Finance,Small,San Francisco,Low,High,Cybersecurity,82827.81361084916,Yes,Decline,20%,281,2181,0.128839981659789,Leadership & Strategy
+data scientist,Manufacturing,Small,Sydney,Medium,Medium,Project Management,73518.82316921977,No,Growth,70%,180,1091,0.1649862511457378,Data & IT
+marketing specialist,Healthcare,Small,London,High,Low,Communication,74977.47886147109,Yes,Decline,20%,281,2181,0.128839981659789,Leadership & Strategy
+product manager,Telecommunications,Medium,Sydney,Low,Low,Sales,66566.60283865419,Yes,Stable,60%,195,1732,0.1125866050808314,Supply Chain & Logistics
+marketing specialist,Manufacturing,Medium,Dubai,High,Low,Project Management,64200.27648349573,Yes,Decline,20%,281,2181,0.128839981659789,Leadership & Strategy
+hr manager,Education,Medium,Singapore,Medium,Medium,Data Analysis,54010.72137049221,No,Growth,20%,299,1960,0.1525510204081632,Leadership & Strategy
+operations manager,Technology,Medium,London,Medium,Medium,Sales,92665.14467722556,No,Stable,25%,232,1461,0.1587953456536618,Communication & PR
+hr manager,Manufacturing,Large,Paris,Low,High,Machine Learning,55015.5991397958,Yes,Decline,20%,299,1960,0.1525510204081632,Leadership & Strategy
+operations manager,Entertainment,Small,London,High,Low,Communication,105505.58792590846,Yes,Growth,25%,232,1461,0.1587953456536618,Communication & PR
+software engineer,Telecommunications,Large,London,Medium,High,Machine Learning,62093.32547494408,No,Stable,60%,133,1342,0.0991058122205663,Communication & PR
+software engineer,Healthcare,Small,Sydney,Low,Medium,Communication,45186.52427160505,No,Stable,60%,133,1342,0.0991058122205663,Communication & PR
+software engineer,Technology,Large,New York,High,Low,Machine Learning,84124.06699718411,No,Growth,60%,133,1342,0.0991058122205663,Communication & PR
+product manager,Telecommunications,Medium,Toronto,Medium,Low,Communication,92891.89006592968,No,Growth,60%,195,1732,0.1125866050808314,Supply Chain & Logistics
+hr manager,Entertainment,Small,New York,Medium,Medium,Machine Learning,99829.50127363882,Yes,Growth,20%,299,1960,0.1525510204081632,Leadership & Strategy
+operations manager,Telecommunications,Small,Tokyo,High,Medium,Project Management,93440.31398031706,No,Growth,25%,232,1461,0.1587953456536618,Communication & PR
+marketing specialist,Entertainment,Large,Paris,High,Medium,Marketing,68813.74757764515,No,Growth,20%,281,2181,0.128839981659789,Leadership & Strategy
+data scientist,Entertainment,Large,Dubai,High,Medium,Sales,104261.22361853208,Yes,Decline,70%,180,1091,0.1649862511457378,Data & IT
+marketing specialist,Education,Small,Berlin,High,Medium,JavaScript,109202.77012959492,No,Decline,20%,281,2181,0.128839981659789,Leadership & Strategy
+data scientist,Energy,Large,Tokyo,Low,Low,Data Analysis,65884.75743088922,No,Stable,70%,180,1091,0.1649862511457378,Data & IT
+sales manager,Technology,Large,Berlin,High,Medium,UX/UI Design,86379.87722680772,Yes,Decline,23%,293,1997,0.1467200801201802,Hospitality
+marketing specialist,Telecommunications,Large,Berlin,Medium,Low,Python,84511.1994578196,Yes,Decline,20%,281,2181,0.128839981659789,Leadership & Strategy
+hr manager,Technology,Large,London,Medium,Low,JavaScript,102836.31060483382,Yes,Stable,20%,299,1960,0.1525510204081632,Leadership & Strategy
+data scientist,Finance,Medium,Singapore,High,Medium,Machine Learning,67722.93800797733,Yes,Stable,70%,180,1091,0.1649862511457378,Data & IT
+data scientist,Retail,Medium,Berlin,Medium,Medium,Machine Learning,104747.46270521649,No,Stable,70%,180,1091,0.1649862511457378,Data & IT
+hr manager,Energy,Small,Paris,Low,Medium,UX/UI Design,112822.65463062502,Yes,Decline,20%,299,1960,0.1525510204081632,Leadership & Strategy
+product manager,Education,Small,Tokyo,High,High,Python,122682.69986977737,Yes,Decline,60%,195,1732,0.1125866050808314,Supply Chain & Logistics
+product manager,Transportation,Large,Berlin,Low,High,Sales,86341.96685769563,No,Stable,60%,195,1732,0.1125866050808314,Supply Chain & Logistics
+product manager,Energy,Large,San Francisco,High,Medium,Machine Learning,50697.98851292822,No,Decline,60%,195,1732,0.1125866050808314,Supply Chain & Logistics
+product manager,Healthcare,Large,San Francisco,High,High,Marketing,41298.72620454353,No,Decline,60%,195,1732,0.1125866050808314,Supply Chain & Logistics
+hr manager,Telecommunications,Large,Berlin,Low,Medium,Project Management,92881.86095214955,No,Growth,20%,299,1960,0.1525510204081632,Leadership & Strategy
+product manager,Energy,Small,Sydney,High,High,Project Management,82016.96414299277,No,Growth,60%,195,1732,0.1125866050808314,Supply Chain & Logistics
+software engineer,Transportation,Large,Paris,Low,High,Data Analysis,99722.55380174633,Yes,Decline,60%,133,1342,0.0991058122205663,Communication & PR
+sales manager,Finance,Small,London,Medium,High,Project Management,114957.91916215842,No,Decline,23%,293,1997,0.1467200801201802,Hospitality
+data scientist,Transportation,Large,London,Medium,High,Communication,91078.4085061156,No,Growth,70%,180,1091,0.1649862511457378,Data & IT
+data scientist,Healthcare,Medium,Paris,High,Low,Python,148467.11234638176,Yes,Stable,70%,180,1091,0.1649862511457378,Data & IT
+sales manager,Telecommunications,Small,Sydney,High,High,Machine Learning,96128.19709970424,No,Growth,23%,293,1997,0.1467200801201802,Hospitality
+hr manager,Education,Medium,London,Low,Low,Machine Learning,126849.58089134425,No,Growth,20%,299,1960,0.1525510204081632,Leadership & Strategy
+marketing specialist,Finance,Medium,San Francisco,High,Medium,Marketing,43343.24398951503,Yes,Growth,20%,281,2181,0.128839981659789,Leadership & Strategy
+hr manager,Finance,Small,Dubai,Low,High,JavaScript,116994.7905910125,Yes,Growth,20%,299,1960,0.1525510204081632,Leadership & Strategy
+data scientist,Entertainment,Small,Tokyo,Low,Medium,Project Management,86384.7902040888,Yes,Decline,70%,180,1091,0.1649862511457378,Data & IT
+data scientist,Transportation,Small,New York,High,Medium,Python,51033.05481145457,No,Stable,70%,180,1091,0.1649862511457378,Data & IT
+sales manager,Manufacturing,Small,London,Low,High,Cybersecurity,98410.9021845624,Yes,Growth,23%,293,1997,0.1467200801201802,Hospitality
+product manager,Telecommunications,Small,Paris,Medium,Low,Project Management,83940.88924031366,No,Stable,60%,195,1732,0.1125866050808314,Supply Chain & Logistics
+hr manager,Transportation,Small,Dubai,High,High,Data Analysis,101601.06496896283,No,Stable,20%,299,1960,0.1525510204081632,Leadership & Strategy
+operations manager,Entertainment,Small,Berlin,Medium,Medium,JavaScript,110221.52915102156,No,Stable,25%,232,1461,0.1587953456536618,Communication & PR
+sales manager,Technology,Large,Toronto,High,Medium,Project Management,60216.99766476808,No,Growth,23%,293,1997,0.1467200801201802,Hospitality
+data scientist,Education,Small,San Francisco,High,Low,Project Management,90129.58968441431,Yes,Growth,70%,180,1091,0.1649862511457378,Data & IT
+sales manager,Telecommunications,Large,Toronto,Medium,Low,Data Analysis,117056.82349386544,No,Stable,23%,293,1997,0.1467200801201802,Hospitality
+hr manager,Entertainment,Large,Tokyo,Low,Medium,Cybersecurity,85897.03542004264,Yes,Stable,20%,299,1960,0.1525510204081632,Leadership & Strategy
+data scientist,Technology,Large,Tokyo,High,Medium,Sales,80591.82214937158,No,Decline,70%,180,1091,0.1649862511457378,Data & IT
+marketing specialist,Retail,Medium,Sydney,High,Low,UX/UI Design,90541.08081377904,No,Growth,20%,281,2181,0.128839981659789,Leadership & Strategy
+sales manager,Entertainment,Small,Singapore,High,High,Cybersecurity,92037.21412759706,No,Stable,23%,293,1997,0.1467200801201802,Hospitality
+data scientist,Telecommunications,Medium,Dubai,Medium,Low,Project Management,80073.90538089433,No,Stable,70%,180,1091,0.1649862511457378,Data & IT
+hr manager,Finance,Medium,Toronto,High,Medium,Machine Learning,65462.48930972422,No,Decline,20%,299,1960,0.1525510204081632,Leadership & Strategy
+software engineer,Entertainment,Medium,Singapore,Low,High,Marketing,81307.09820419611,Yes,Decline,60%,133,1342,0.0991058122205663,Communication & PR
+operations manager,Healthcare,Large,Berlin,Low,Low,Machine Learning,103526.20119995158,Yes,Growth,25%,232,1461,0.1587953456536618,Communication & PR
+ux designer,Retail,Small,San Francisco,Medium,Medium,Cybersecurity,87252.91652187712,Yes,Stable,50%,129,993,0.1299093655589124,Communication & PR
+product manager,Education,Large,Toronto,Low,High,Machine Learning,110181.30592094656,Yes,Growth,60%,195,1732,0.1125866050808314,Supply Chain & Logistics
+ux designer,Healthcare,Large,Sydney,Medium,Medium,Python,86291.41064693853,No,Stable,50%,129,993,0.1299093655589124,Communication & PR
+hr manager,Energy,Small,New York,High,High,Machine Learning,61369.64004553371,Yes,Growth,20%,299,1960,0.1525510204081632,Leadership & Strategy
+software engineer,Finance,Medium,San Francisco,High,High,Project Management,85332.65422472931,Yes,Decline,60%,133,1342,0.0991058122205663,Communication & PR
+product manager,Telecommunications,Small,London,Low,Medium,Machine Learning,114751.44094968236,Yes,Stable,60%,195,1732,0.1125866050808314,Supply Chain & Logistics
+software engineer,Manufacturing,Small,Tokyo,Medium,High,Sales,93294.8757492877,Yes,Decline,60%,133,1342,0.0991058122205663,Communication & PR
+ux designer,Education,Large,New York,High,Low,Sales,89189.63299928416,Yes,Growth,50%,129,993,0.1299093655589124,Communication & PR
+software engineer,Retail,Medium,Dubai,Low,High,Machine Learning,104018.51430874206,No,Stable,60%,133,1342,0.0991058122205663,Communication & PR
+ux designer,Telecommunications,Large,Dubai,Medium,High,Sales,107103.06730964044,Yes,Stable,50%,129,993,0.1299093655589124,Communication & PR
+data scientist,Healthcare,Large,Berlin,High,Medium,Marketing,95276.78008497784,Yes,Growth,70%,180,1091,0.1649862511457378,Data & IT
+data scientist,Education,Small,Paris,High,Low,Python,99467.4500805192,Yes,Growth,70%,180,1091,0.1649862511457378,Data & IT
+operations manager,Manufacturing,Large,London,Low,Low,Cybersecurity,116713.11794289124,No,Growth,25%,232,1461,0.1587953456536618,Communication & PR
+product manager,Entertainment,Small,Sydney,Low,High,JavaScript,89454.20120720599,Yes,Growth,60%,195,1732,0.1125866050808314,Supply Chain & Logistics
+ux designer,Manufacturing,Medium,Paris,Low,High,Communication,97763.4051533598,Yes,Decline,50%,129,993,0.1299093655589124,Communication & PR
+ux designer,Manufacturing,Medium,New York,Medium,Medium,Python,63245.81152164402,No,Growth,50%,129,993,0.1299093655589124,Communication & PR
+hr manager,Education,Small,Tokyo,Low,Medium,Project Management,94786.61600794963,Yes,Stable,20%,299,1960,0.1525510204081632,Leadership & Strategy
+software engineer,Education,Large,Berlin,Low,Medium,Project Management,63064.75182472472,No,Growth,60%,133,1342,0.0991058122205663,Communication & PR
+operations manager,Transportation,Large,Dubai,Low,Medium,Communication,97489.6129281689,Yes,Stable,25%,232,1461,0.1587953456536618,Communication & PR
+ux designer,Energy,Small,Singapore,Low,High,Sales,90737.49608372692,No,Stable,50%,129,993,0.1299093655589124,Communication & PR
+operations manager,Entertainment,Medium,Berlin,Low,Low,Communication,139078.06691887142,Yes,Decline,25%,232,1461,0.1587953456536618,Communication & PR
+marketing specialist,Transportation,Large,Singapore,High,High,JavaScript,104854.99923573848,No,Stable,20%,281,2181,0.128839981659789,Leadership & Strategy
+marketing specialist,Finance,Medium,Tokyo,Low,High,Sales,117295.97619484668,No,Stable,20%,281,2181,0.128839981659789,Leadership & Strategy
+data scientist,Finance,Large,Tokyo,High,Medium,Python,127434.9563738785,Yes,Growth,70%,180,1091,0.1649862511457378,Data & IT
+hr manager,Manufacturing,Large,New York,Low,Medium,Marketing,95713.796005344,No,Decline,20%,299,1960,0.1525510204081632,Leadership & Strategy
+software engineer,Energy,Small,Dubai,Low,Low,Project Management,87667.40135199211,Yes,Stable,60%,133,1342,0.0991058122205663,Communication & PR
+software engineer,Education,Medium,Dubai,Medium,High,Data Analysis,75538.24540728275,No,Growth,60%,133,1342,0.0991058122205663,Communication & PR
+product manager,Retail,Large,Berlin,Medium,High,Project Management,127413.26752384935,No,Growth,60%,195,1732,0.1125866050808314,Supply Chain & Logistics
+hr manager,Retail,Medium,San Francisco,Medium,Low,Machine Learning,92292.4301839998,Yes,Growth,20%,299,1960,0.1525510204081632,Leadership & Strategy
+operations manager,Education,Large,San Francisco,High,Medium,Data Analysis,72482.00844567783,Yes,Decline,25%,232,1461,0.1587953456536618,Communication & PR
+ux designer,Education,Small,Singapore,Low,Medium,Project Management,117490.66909382609,No,Decline,50%,129,993,0.1299093655589124,Communication & PR
+product manager,Technology,Large,Tokyo,Low,Medium,JavaScript,109105.50952474898,Yes,Stable,60%,195,1732,0.1125866050808314,Supply Chain & Logistics
+ux designer,Energy,Small,Berlin,Low,Medium,Marketing,110153.06985200792,No,Growth,50%,129,993,0.1299093655589124,Communication & PR
+ux designer,Education,Large,Paris,Medium,High,Project Management,49877.3959379521,Yes,Stable,50%,129,993,0.1299093655589124,Communication & PR
+product manager,Finance,Medium,New York,Medium,Low,UX/UI Design,128973.41915442972,Yes,Growth,60%,195,1732,0.1125866050808314,Supply Chain & Logistics
+data scientist,Entertainment,Large,Toronto,Low,High,Cybersecurity,78829.70515812226,No,Growth,70%,180,1091,0.1649862511457378,Data & IT
+marketing specialist,Healthcare,Large,London,Medium,Medium,JavaScript,105559.0954558551,Yes,Stable,20%,281,2181,0.128839981659789,Leadership & Strategy
+ux designer,Energy,Small,Sydney,Low,High,Python,140475.99581234064,Yes,Growth,50%,129,993,0.1299093655589124,Communication & PR
+product manager,Telecommunications,Medium,Tokyo,Low,Low,Python,133106.65496381235,Yes,Growth,60%,195,1732,0.1125866050808314,Supply Chain & Logistics
+product manager,Finance,Large,Tokyo,Low,High,Python,70448.75749054627,No,Growth,60%,195,1732,0.1125866050808314,Supply Chain & Logistics
+sales manager,Manufacturing,Medium,Tokyo,Low,Low,Python,61109.65325995454,Yes,Decline,23%,293,1997,0.1467200801201802,Hospitality
+data scientist,Education,Large,New York,Low,High,Cybersecurity,118606.93197695856,Yes,Stable,70%,180,1091,0.1649862511457378,Data & IT
+sales manager,Education,Medium,London,Low,Low,Sales,79982.3711739584,Yes,Stable,23%,293,1997,0.1467200801201802,Hospitality
+sales manager,Retail,Large,Paris,Medium,Medium,Project Management,102424.37093878096,Yes,Stable,23%,293,1997,0.1467200801201802,Hospitality
+marketing specialist,Retail,Large,Tokyo,Low,Medium,Marketing,104026.48274097488,Yes,Stable,20%,281,2181,0.128839981659789,Leadership & Strategy
+product manager,Technology,Small,San Francisco,Medium,Medium,Data Analysis,91339.63615637466,Yes,Decline,60%,195,1732,0.1125866050808314,Supply Chain & Logistics
+marketing specialist,Retail,Medium,Dubai,Medium,Medium,Sales,104447.75856656334,No,Decline,20%,281,2181,0.128839981659789,Leadership & Strategy
+hr manager,Technology,Large,San Francisco,Medium,High,Sales,72109.34621727222,No,Decline,20%,299,1960,0.1525510204081632,Leadership & Strategy
+marketing specialist,Education,Medium,Singapore,High,High,Communication,102925.94738807144,Yes,Stable,20%,281,2181,0.128839981659789,Leadership & Strategy
+software engineer,Manufacturing,Large,Toronto,Medium,Low,Communication,67646.60145976013,No,Decline,60%,133,1342,0.0991058122205663,Communication & PR
+ux designer,Retail,Small,Dubai,High,Low,Machine Learning,123992.64833288494,No,Decline,50%,129,993,0.1299093655589124,Communication & PR
+hr manager,Finance,Large,San Francisco,Medium,High,Data Analysis,89725.67801267463,Yes,Stable,20%,299,1960,0.1525510204081632,Leadership & Strategy
+data scientist,Technology,Medium,Toronto,Low,Low,UX/UI Design,104560.97724859684,Yes,Decline,70%,180,1091,0.1649862511457378,Data & IT
+hr manager,Healthcare,Large,Berlin,Low,Medium,Project Management,95217.78129364197,Yes,Stable,20%,299,1960,0.1525510204081632,Leadership & Strategy
+ux designer,Energy,Large,Toronto,High,Medium,Cybersecurity,95942.54704238808,No,Stable,50%,129,993,0.1299093655589124,Communication & PR
+ux designer,Manufacturing,Small,San Francisco,High,Medium,Project Management,101648.96249309662,Yes,Growth,50%,129,993,0.1299093655589124,Communication & PR
+sales manager,Transportation,Small,Paris,Low,Low,Project Management,129306.82923444168,No,Stable,23%,293,1997,0.1467200801201802,Hospitality
+ux designer,Telecommunications,Medium,Toronto,Low,High,Data Analysis,100795.60517983914,Yes,Decline,50%,129,993,0.1299093655589124,Communication & PR
+sales manager,Healthcare,Small,Dubai,High,Low,Cybersecurity,70845.83502220524,Yes,Decline,23%,293,1997,0.1467200801201802,Hospitality
+operations manager,Healthcare,Medium,Tokyo,Low,Low,Python,111189.61060346678,Yes,Stable,25%,232,1461,0.1587953456536618,Communication & PR
+sales manager,Retail,Small,New York,Low,Medium,Cybersecurity,100249.33032380774,Yes,Decline,23%,293,1997,0.1467200801201802,Hospitality
+data scientist,Technology,Small,Toronto,High,Medium,Marketing,88517.45787139912,Yes,Stable,70%,180,1091,0.1649862511457378,Data & IT
+ux designer,Manufacturing,Medium,Dubai,High,Medium,Marketing,85157.01548352139,No,Decline,50%,129,993,0.1299093655589124,Communication & PR
+ux designer,Entertainment,Medium,Sydney,Low,High,Project Management,85073.80489266386,No,Growth,50%,129,993,0.1299093655589124,Communication & PR
+data scientist,Technology,Medium,Tokyo,Low,Low,Python,103955.53802022424,No,Growth,70%,180,1091,0.1649862511457378,Data & IT
+software engineer,Entertainment,Large,Sydney,High,High,JavaScript,61857.52009880744,No,Growth,60%,133,1342,0.0991058122205663,Communication & PR
+product manager,Energy,Large,San Francisco,High,Medium,UX/UI Design,82562.53678289187,Yes,Growth,60%,195,1732,0.1125866050808314,Supply Chain & Logistics
+operations manager,Education,Medium,New York,Low,High,Machine Learning,121912.19646021895,No,Stable,25%,232,1461,0.1587953456536618,Communication & PR
+sales manager,Finance,Medium,Toronto,Low,Low,Machine Learning,60437.05824396676,No,Growth,23%,293,1997,0.1467200801201802,Hospitality
+data scientist,Technology,Large,Paris,Medium,Medium,Cybersecurity,67371.72777472783,Yes,Stable,70%,180,1091,0.1649862511457378,Data & IT
+sales manager,Healthcare,Small,San Francisco,Medium,High,Machine Learning,107851.79034228704,Yes,Growth,23%,293,1997,0.1467200801201802,Hospitality
+product manager,Manufacturing,Small,San Francisco,High,Medium,UX/UI Design,53450.51291894019,No,Stable,60%,195,1732,0.1125866050808314,Supply Chain & Logistics
+hr manager,Entertainment,Large,Paris,High,Low,JavaScript,80516.4168684071,Yes,Decline,20%,299,1960,0.1525510204081632,Leadership & Strategy
+ux designer,Healthcare,Large,Dubai,High,Medium,Project Management,116519.29348570466,No,Decline,50%,129,993,0.1299093655589124,Communication & PR
+hr manager,Finance,Large,Dubai,High,Medium,Data Analysis,56461.83052061492,Yes,Growth,20%,299,1960,0.1525510204081632,Leadership & Strategy
+sales manager,Finance,Medium,New York,High,Low,Cybersecurity,91850.81230987245,Yes,Growth,23%,293,1997,0.1467200801201802,Hospitality
+product manager,Technology,Small,Dubai,High,Low,Marketing,82127.81125302812,No,Decline,60%,195,1732,0.1125866050808314,Supply Chain & Logistics
+operations manager,Energy,Medium,Singapore,Medium,High,UX/UI Design,119395.97852554575,No,Decline,25%,232,1461,0.1587953456536618,Communication & PR
+sales manager,Education,Small,Berlin,Low,Medium,Data Analysis,101953.052927065,No,Stable,23%,293,1997,0.1467200801201802,Hospitality
+data scientist,Energy,Small,New York,Low,Low,JavaScript,78283.6868148453,Yes,Decline,70%,180,1091,0.1649862511457378,Data & IT
+marketing specialist,Entertainment,Medium,New York,Medium,High,Sales,107067.72886658164,Yes,Decline,20%,281,2181,0.128839981659789,Leadership & Strategy
+sales manager,Manufacturing,Small,London,Medium,High,Project Management,82223.42293382852,Yes,Growth,23%,293,1997,0.1467200801201802,Hospitality
+ux designer,Finance,Small,Tokyo,Medium,Medium,Cybersecurity,109986.59422479507,No,Decline,50%,129,993,0.1299093655589124,Communication & PR
+ux designer,Manufacturing,Large,Tokyo,Medium,Medium,Project Management,85258.46018228843,Yes,Growth,50%,129,993,0.1299093655589124,Communication & PR
+sales manager,Manufacturing,Small,Singapore,High,High,Data Analysis,111093.33157537528,Yes,Decline,23%,293,1997,0.1467200801201802,Hospitality
+marketing specialist,Finance,Medium,San Francisco,High,High,Sales,155209.82161382848,Yes,Decline,20%,281,2181,0.128839981659789,Leadership & Strategy
+data scientist,Telecommunications,Small,San Francisco,Low,Medium,Data Analysis,88942.07989167991,Yes,Decline,70%,180,1091,0.1649862511457378,Data & IT
+sales manager,Retail,Large,Sydney,Low,Low,Cybersecurity,97657.24583242898,Yes,Decline,23%,293,1997,0.1467200801201802,Hospitality
+ux designer,Telecommunications,Small,New York,High,High,Marketing,90053.70681509557,No,Stable,50%,129,993,0.1299093655589124,Communication & PR
+ux designer,Entertainment,Small,Singapore,Medium,Medium,Data Analysis,35963.29731701118,No,Decline,50%,129,993,0.1299093655589124,Communication & PR
+product manager,Healthcare,Medium,Singapore,High,High,Communication,99311.68033082064,No,Growth,60%,195,1732,0.1125866050808314,Supply Chain & Logistics
+sales manager,Energy,Small,Singapore,Low,High,Sales,116857.48425898825,Yes,Stable,23%,293,1997,0.1467200801201802,Hospitality
+marketing specialist,Energy,Large,Tokyo,Medium,High,Data Analysis,97932.60009198709,Yes,Growth,20%,281,2181,0.128839981659789,Leadership & Strategy
+software engineer,Transportation,Small,Singapore,Medium,Low,Data Analysis,63722.77084045245,No,Growth,60%,133,1342,0.0991058122205663,Communication & PR
+marketing specialist,Energy,Medium,Berlin,Low,Low,Communication,73964.25694581997,Yes,Stable,20%,281,2181,0.128839981659789,Leadership & Strategy
+ux designer,Finance,Medium,San Francisco,Low,Medium,Cybersecurity,41396.15745687459,No,Decline,50%,129,993,0.1299093655589124,Communication & PR
+ux designer,Education,Medium,Sydney,Low,Medium,Data Analysis,109578.48013730848,Yes,Growth,50%,129,993,0.1299093655589124,Communication & PR
+hr manager,Technology,Medium,Berlin,Medium,High,Marketing,69869.7341458084,Yes,Growth,20%,299,1960,0.1525510204081632,Leadership & Strategy
+ux designer,Transportation,Medium,Sydney,High,High,Project Management,89425.82819575544,No,Decline,50%,129,993,0.1299093655589124,Communication & PR
+data scientist,Technology,Small,London,Medium,High,Cybersecurity,86925.2485534556,No,Decline,70%,180,1091,0.1649862511457378,Data & IT
+sales manager,Technology,Small,San Francisco,Medium,Low,Cybersecurity,91705.62635931476,No,Stable,23%,293,1997,0.1467200801201802,Hospitality
+marketing specialist,Technology,Small,San Francisco,Medium,Low,Marketing,106177.8584021202,No,Stable,20%,281,2181,0.128839981659789,Leadership & Strategy
+software engineer,Manufacturing,Small,London,Medium,High,Machine Learning,85217.52610994082,Yes,Growth,60%,133,1342,0.0991058122205663,Communication & PR
+data scientist,Energy,Large,New York,Medium,High,Marketing,127392.30661009034,No,Stable,70%,180,1091,0.1649862511457378,Data & IT
+marketing specialist,Energy,Small,Dubai,Low,Medium,Python,50286.7568720137,No,Decline,20%,281,2181,0.128839981659789,Leadership & Strategy
+software engineer,Transportation,Large,Toronto,High,High,UX/UI Design,72667.60782671736,No,Stable,60%,133,1342,0.0991058122205663,Communication & PR
+hr manager,Finance,Medium,Singapore,Medium,Medium,Machine Learning,80145.00894440095,No,Growth,20%,299,1960,0.1525510204081632,Leadership & Strategy
+data scientist,Education,Small,Tokyo,High,High,Machine Learning,101388.28533802072,No,Growth,70%,180,1091,0.1649862511457378,Data & IT
+data scientist,Education,Small,New York,Medium,High,Project Management,101228.04099695486,Yes,Decline,70%,180,1091,0.1649862511457378,Data & IT
+hr manager,Finance,Small,Paris,High,Low,Machine Learning,102128.56027380144,Yes,Decline,20%,299,1960,0.1525510204081632,Leadership & Strategy
+sales manager,Transportation,Large,Toronto,Low,High,Project Management,62276.84111789524,Yes,Growth,23%,293,1997,0.1467200801201802,Hospitality
+hr manager,Finance,Medium,Tokyo,Medium,Low,UX/UI Design,118980.6046255848,Yes,Stable,20%,299,1960,0.1525510204081632,Leadership & Strategy
+data scientist,Energy,Large,London,High,Low,UX/UI Design,71987.05763544649,Yes,Decline,70%,180,1091,0.1649862511457378,Data & IT
+data scientist,Telecommunications,Large,Singapore,Low,Low,Sales,74654.25819549602,No,Growth,70%,180,1091,0.1649862511457378,Data & IT
+ux designer,Technology,Large,New York,High,Medium,Marketing,84265.57650477519,No,Decline,50%,129,993,0.1299093655589124,Communication & PR
+software engineer,Retail,Medium,New York,Medium,Low,Marketing,96165.21681124983,No,Decline,60%,133,1342,0.0991058122205663,Communication & PR
+hr manager,Transportation,Small,London,Medium,High,Communication,46867.98606734424,No,Growth,20%,299,1960,0.1525510204081632,Leadership & Strategy
+software engineer,Retail,Medium,Sydney,Low,Low,Communication,95686.48899038463,No,Stable,60%,133,1342,0.0991058122205663,Communication & PR
+hr manager,Education,Small,Paris,Medium,High,JavaScript,94356.6375902443,Yes,Stable,20%,299,1960,0.1525510204081632,Leadership & Strategy
+data scientist,Technology,Large,Dubai,Medium,High,Sales,48518.48080470421,No,Decline,70%,180,1091,0.1649862511457378,Data & IT
+ux designer,Manufacturing,Small,Paris,Low,Medium,JavaScript,85743.8347703679,No,Growth,50%,129,993,0.1299093655589124,Communication & PR
+ux designer,Technology,Medium,Singapore,Medium,Low,Data Analysis,82655.4201933901,Yes,Stable,50%,129,993,0.1299093655589124,Communication & PR
+ux designer,Retail,Small,London,Low,Medium,Data Analysis,53276.51071135004,Yes,Stable,50%,129,993,0.1299093655589124,Communication & PR
+ux designer,Education,Large,Tokyo,Low,High,JavaScript,121894.68014633832,No,Growth,50%,129,993,0.1299093655589124,Communication & PR
+software engineer,Healthcare,Small,Paris,High,High,Machine Learning,77222.76944111254,Yes,Decline,60%,133,1342,0.0991058122205663,Communication & PR
+hr manager,Telecommunications,Medium,Dubai,Medium,High,Cybersecurity,85555.90674154198,Yes,Stable,20%,299,1960,0.1525510204081632,Leadership & Strategy
+operations manager,Manufacturing,Medium,San Francisco,Medium,High,Sales,41810.51357563419,No,Growth,25%,232,1461,0.1587953456536618,Communication & PR
+marketing specialist,Technology,Medium,Tokyo,High,Medium,Marketing,80669.00136531888,No,Decline,20%,281,2181,0.128839981659789,Leadership & Strategy
+ux designer,Education,Small,Paris,Low,Medium,Cybersecurity,91969.25634148406,No,Stable,50%,129,993,0.1299093655589124,Communication & PR
+sales manager,Education,Medium,Singapore,Low,Medium,Data Analysis,112414.74889633304,No,Stable,23%,293,1997,0.1467200801201802,Hospitality
+software engineer,Retail,Small,Tokyo,High,Medium,Marketing,76473.91590566748,Yes,Decline,60%,133,1342,0.0991058122205663,Communication & PR
+marketing specialist,Retail,Medium,Tokyo,Low,Medium,Data Analysis,48773.49088117717,No,Stable,20%,281,2181,0.128839981659789,Leadership & Strategy
+operations manager,Energy,Large,Berlin,Low,High,Cybersecurity,101019.73315142626,No,Decline,25%,232,1461,0.1587953456536618,Communication & PR
+sales manager,Energy,Medium,Toronto,Medium,High,Data Analysis,121444.84333039304,Yes,Stable,23%,293,1997,0.1467200801201802,Hospitality
+operations manager,Manufacturing,Small,Sydney,Low,Medium,UX/UI Design,78391.66305563941,No,Decline,25%,232,1461,0.1587953456536618,Communication & PR
+marketing specialist,Retail,Small,San Francisco,Medium,High,Python,112377.63240596798,No,Stable,20%,281,2181,0.128839981659789,Leadership & Strategy
+ux designer,Healthcare,Medium,Tokyo,Medium,Medium,UX/UI Design,126678.45304387566,No,Growth,50%,129,993,0.1299093655589124,Communication & PR
+sales manager,Finance,Large,Toronto,Medium,High,Python,84903.16323891962,Yes,Stable,23%,293,1997,0.1467200801201802,Hospitality
+operations manager,Finance,Large,Toronto,High,Low,Communication,83249.43428300279,No,Stable,25%,232,1461,0.1587953456536618,Communication & PR
+hr manager,Retail,Small,Singapore,High,Medium,Data Analysis,79805.39689629733,No,Decline,20%,299,1960,0.1525510204081632,Leadership & Strategy
+data scientist,Telecommunications,Large,Berlin,Medium,Medium,Sales,73692.80219454759,Yes,Growth,70%,180,1091,0.1649862511457378,Data & IT
+hr manager,Manufacturing,Medium,London,Medium,Medium,Sales,72017.77803145545,No,Stable,20%,299,1960,0.1525510204081632,Leadership & Strategy
+marketing specialist,Retail,Small,Berlin,High,High,Python,113976.70593422712,No,Decline,20%,281,2181,0.128839981659789,Leadership & Strategy
+software engineer,Telecommunications,Small,Tokyo,Low,Medium,Marketing,74201.47949423481,No,Growth,60%,133,1342,0.0991058122205663,Communication & PR
+data scientist,Energy,Large,Sydney,Medium,Low,Cybersecurity,95170.43829439246,Yes,Decline,70%,180,1091,0.1649862511457378,Data & IT
+sales manager,Transportation,Medium,Tokyo,Medium,High,Sales,97622.96093308643,Yes,Growth,23%,293,1997,0.1467200801201802,Hospitality
+data scientist,Telecommunications,Medium,Berlin,Low,Medium,Machine Learning,105821.3940455222,Yes,Stable,70%,180,1091,0.1649862511457378,Data & IT
+operations manager,Healthcare,Large,Paris,High,Low,Python,77642.1506253524,Yes,Stable,25%,232,1461,0.1587953456536618,Communication & PR
+hr manager,Entertainment,Medium,Berlin,Medium,High,Project Management,68764.37892079895,Yes,Decline,20%,299,1960,0.1525510204081632,Leadership & Strategy
