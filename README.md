@@ -1,5 +1,5 @@
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS09776y3NwhrsqUL-pF1d03mQfGrbKuBReUw&s" width="300" height="150" />
+<img src="https://mediatek-marketing.transforms.svdcdn.com/production/posts/MediaTek-IA-2023.jpg?w=2048&h=1075&q=80&auto=format&fit=crop&dm=1688130337&s=3b56535c28f441a34db9455d64444cb7" width="300" height="150" />
 
 <a name="top"></a>
 
