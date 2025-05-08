@@ -3,18 +3,19 @@
 
 <a name="top"></a>
 
-## 🦈 AI Impact on Works Today  | Python
+## 💻 AI Impact on Works Today  | Python
 
 <details>
   <summary>
    <h2>Objetivos de aprendizaje</h2>
   </summary>
-Somos Lucía y Luis, estudiantes de Ironhack , y en este proyecto formamos parte del equipo de Ironman, el mejor triatlón internacional de esta década. En base a los datos obtenidos realizaremos el plan anual de 2026.
-  
-Este script nos permite analizar una gran cantidad de datos acerca de los ataques de tiburones, basandonos en las posibles zonas donde vamos a relizar nuestras futuras pruebas. Es muy importante tener en cuenta este risgo ya que pon en peligro la seguridad de nuestros participantes.
+Soy Luis Manuel Blanco Abenza, estudiante de Ironhack , y en este proyecto he investigado acerca del impacto que ha tenido y sigue teniendo la Inteligencia Artificial en los trabajos.
+
+
+Este script nos permite analizar una gran cantidad de datos acerca de las distintas variables que rodean este campo, desde que trabajos que tienen más riego de automatización, hasta los que menos riesgo tienen de ser autoamtizados.
 
   <br>
-  <hr> 
+  <hr>
 
 </details>
 
@@ -29,83 +30,55 @@ Antes de empezar este proyecto debes saber:
 - Variables
 - Tipos de datos, operaciones y estructuras
 - Limpieza y formateo de código
-- Manejo de archivos excel en python
+- Manejo de archivos csv en python
+- Implmentación de APIs
 
 <br>
-<hr> 
+<hr>
 
 </details>
 
 ## Introducción
 
-El equipo de Ironman pone en marcha el plan anual 2026!
+Análisis acerca del impacto de la IA en los trabajos d ehoy en día.
 
-Las primeras cuestiones a abordar son el dónde y cúando tendrán lugar los eventos que tenemos previstos este año. Según el modus operandi hasta el momento se han realizado 3 pruebas de Ironman cada año.
+Lo interesante de este análisis es ver como influye en el desarrollo normal de trabajos, algo tan novedoso como es la Inteligencia Artificial, ya que hace 5 años seria inviable creer de lo que es capaz.
 
-Mediante la informacion obtenida apartir de este fichero "GSAF5.xls" hemos obtenido las respuestas necesarias para llevar a cabo con seguridad la realización de todas nuestras pruebas y evitar al máximo accidentes indeseados.
+Mediante la informacion obtenida apartir de dos CSVs y la API de Adzura, he obtenido las respuestas necesarias para llevar a cabo con toda la claridad posible este proyecto tan interesante.
 
-Os presentamos nuestro MVP para abordadr diicha problematica, más adelante encontrareis propuesta de mejora para acabar de perfilar todas las cuestiones de negocio y asuntos externos que rodean las pruebas.
-
+Os presentamos nuestro análisis para abordar dicha investigación, más adelante encontrareis propuesta de mejora para acabar de perfilar más aun nuestros resultados obtenidos.
 <br>
 
 ## Objetivo 
-El objetivo de este proyecto es reducir todo lo posible el riesgo de accidente con tiburones en nuestras pruebas, en el momentos que nuestros competidores esten nadando en aguas abiertas. 
-Teniendo en cuenta este factor de seguridad conseguimos saber dónde y cúando llevar acabo nuestras pruebas.
+Uno de los objetivos de este proyecto es encontrar en que campos laborales hay mayor riesgo de automatización del trabajo, y cuáles están a salvo de esto.
+Por otro lado se aborda el tema de la adopción de la IA según industrias, también salarios y trabajos más demandados en esta época de la tecnología dónde todos estamos conectados.
 
 ## MVP 
-- Year: Estadísticas de los últimos 3 años.
-- Months: Estacionalidad del número de ataques de tiburón.
-- Activity: Ataque de tiburones a personas mientras nadaban.
-- Country: Mejores paises para ralizar las pruebas en base a las estadisticas previamente mencionadas.
-- State: Punto exacto donde ralizar las pruebas en base a las estadisticas previamente mencionadas.
+- Job Title: Nombre del trabajo.
+- Industry: Industria del trabajo.
+- Automation Risk: Riesgo de automatización.
+- Required Skills: Habilidades más demandadas.
+- Salary USD: Salario.
+- Remote Friendly: Compatibilidad con trabajo en remoto.
+- Job Growth Projection: Proyección de crecimiento.
+- AI Impact: Impacto de la IA por trabajo.
 
 
-# 📌 Conclusiones del Análisis de Seguridad para Eventos IRONMAN
+# 📌 Conclusiones del Análisis de Imacto de la IA en los trabajos
 
-## 🗓️ ¿Cuándo haríamos el Ironman?
-Se propone organizar tres eventos IRONMAN al año, distribuidos estratégicamente en diferentes estaciones del año para diversificar las condiciones climáticas y geográficas:
-
-Marzo – Final del invierno
-
-Agosto – Pleno verano
-
-Octubre – Comienzo del otoño
-
-## 🌍 ¿Dónde lo haríamos? (Países y ubicaciones recomendadas)
-Las ubicaciones propuestas se seleccionaron considerando el historial de ataques de tiburón en actividades acuáticas (principalmente natación), priorizando regiones con bajo o nulo riesgo reciente:
-
-- Canadá (marzo)
-Región sugerida: Nueva Escocia
-
-- Malta (agosto)
-Ciudad sugerida: La Valeta
-
-- República Dominicana (octubre)
-Ciudad sugerida: Santo Domingo
+## 💻 La IA es nuestra mejor compañera!
+Para concluir podríamos destacar la importancia de las habilidades tecnológicas hoy en día, ya que nos ecaminamos hacia un mundo repleto de tecnología, dónde hay que adaptarse para no quedar atrás.
+Por otro lado, la IA nos da muchas facilidades en muchos campos de estudio y en nuestro día a día.
+Por último, y como era obvio, hay que estar preparado para trabjar con ella como apoyo y no verla como un posible reemplazo de nuestro trabajo. 
 
 </details>
 
 ## 🔧 Sugerencias de mejora y próximos paso
 </details>
-Filtro más estricto por tipo de actividad:
-Aunque ya se han filtrado los ataques relacionados con natación, sería recomendable comparar la incidencia con otras actividades acuáticas para contextualizar el riesgo.
-
-Parámetro de seguridad por estado:
-Se debe establecer como condición clave que el estado/provincia seleccionada no haya registrado muertes por ataque de tiburón en al menos los últimos 20 años, o idealmente, que no haya habido ninguna.
-
-Factores no relacionados con ataques:
-Para una evaluación completa, es necesario considerar:
-
-- Costos económicos y presupuesto estimado
-
-- Disponibilidad de proveedores locales (logística, seguridad, alimentación, etc.)
-
-- Permisos y regulación local con autoridades municipales y estatales
-
-- Condiciones climáticas promedio en cada mes y país
-
-Recomendación técnica adicional:
-Implementar un sistema de puntuación que combine seguridad acuática, viabilidad económica y logística para priorizar automáticamente las sedes candidatas.
+- Inversión en fuentes de datos de pago, como por ejemplo Statista.
+- Utilización de web scraping para sacar más datos y analizar más exhaustivamente cada sector.
+- Utilización de más APIs para la recopilación de datos.
+- Implementar estadísticas más complejas. 
 
 </details>
 
@@ -114,9 +87,7 @@ Implementar un sistema de puntuación que combine seguridad acuática, viabilida
   <summary></summary>
   <br>
 
-Somos Lucía y Luis, estudiantes de Ironhack y este es nuestro segundo mini project 😎. 
-
-[![Lucía Ruiz](https://img.shields.io/badge/@luciaruizfraile-GitHub-181717?logo=github&style=flat-square)](https://github.com/luciaruizfraile)
+Soy Luis Manuel, estudiante de Ironhack y este es mi primer project 😎. 
 
 [![Luis Manuel Blanco](https://img.shields.io/badge/@xhttpluris7-GitHub-181717?logo=github&style=flat-square)](https://github.com/httpluris7)
 
